@@ -1,0 +1,6 @@
+<package
+    name="Optical Camo"
+    description="Armor that generates invisible sandbag cover for stealth."
+    show_in_campaigns="0"
+    show_in_quick_match_mods="1">
+</package>
