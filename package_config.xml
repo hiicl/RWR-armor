@@ -1,6 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
 <package
     name="Optical Camo"
-    description="Armor that generates invisible sandbag cover for stealth."
-    show_in_campaigns="0"
-    show_in_quick_match_mods="1">
+    description="Invisible sandbag optical camo armor."
+    show_in_quick_match_mods="1"
+    quick_match_entry_script="optical_camo.as">
 </package>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <armory_item key="optical_camo.armory">
+    <specification
+      item="optical_camo.carry_item"
+      price="50"
+      category="armor"/>
+  </armory_item>
+</items>

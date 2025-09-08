@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <carry_item key="optical_camo.carry_item">
-    <specification
-        name="Optical Camo"
-        description="Crouch for partial stealth, prone for full stealth."
-        carry_type="body"
-        weight="6.0"
-        detection_range_modifier="-0.20" />
+  <specification
+    name="Optical Camo"
+    description="Wear this; crouch = partial conceal, prone = full conceal."
+    carry_type="body"
+    weight="6.0"
+    detection_range_modifier="-0.20"/>
 </carry_item>
